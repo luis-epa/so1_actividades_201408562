@@ -30,4 +30,4 @@ Es una dirección que se le asigna a una computadora en una red.
 
 ### Conclusión
 
-La mayoría de personas que trabajan a menudo con computadoras tienem una idea mas o menos clara de los conceptos consultados. Probablemente el concepto de "sistema operativo" sea el más dificl de definir debido a que parece ser un concepto más abstracto. con el que no es tan fácil reaalizar una analogía con un objeto del mundo cotidiano. En el caso de los términos dirección IP y archivo, estos se pueden relacionar fácilmente a la dirección de una casa y a algún documento físico o contenedor donde guardar información, respectivamente. 
+La mayoría de personas que trabajan a menudo con computadoras tienem una idea más o menos clara de los conceptos consultados. Probablemente el concepto de "sistema operativo" sea el más dificl de definir debido a que parece ser un concepto más abstracto. con el que no es tan fácil reaalizar una analogía con un objeto del mundo cotidiano. En el caso de los términos dirección IP y archivo, estos se pueden relacionar fácilmente a la dirección de una casa y a algún documento físico o contenedor donde guardar información, respectivamente. 
